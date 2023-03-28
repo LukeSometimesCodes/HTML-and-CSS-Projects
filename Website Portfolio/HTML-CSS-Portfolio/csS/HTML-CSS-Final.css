@@ -20,8 +20,12 @@ h1:hover {
     transition: transform 1s;
 }
 
-.white-text {
+.white-text, .center2 {
     color: #fff;
+}
+
+.center2 {
+    text-align: center;
 }
 
 p {
